@@ -1,0 +1,18 @@
+{
+
+  "user":[
+
+    {
+      "username":"haha",
+      "password":"12345",
+      "age":"23", 
+      "address":"miami"
+    },
+    {
+      "username":"heihei",
+      "password":"12345",
+      "age":"23", 
+      "address":"miami"
+    }
+  ]
+}
