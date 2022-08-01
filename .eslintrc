@@ -1,5 +1,8 @@
 {
+<<<<<<< Updated upstream
   "extends" : "airbnb",
+=======
+>>>>>>> Stashed changes
   "parser": "@babel/eslint-parser",
   "parserOptions": {
     "requireConfigFile":false,
